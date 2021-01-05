@@ -15,7 +15,7 @@
   
     - "bcryptjs": "^2.4.3" - use to hash and compare passwords
     - "redis": "^8.5.1" - manage sessions on server side
-    - "crypt": "^1.0.1" - generate tokens
+    - "crypto": "^1.0.1" - generate tokens
     - "mongoose": "^5.11.8" - write mongoDB queries
     - "uuid": "^8.3.2" - create unique ids
     - "chai": "^4.2.0" - assertion library to write test cases
